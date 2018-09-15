@@ -1,6 +1,6 @@
 # TTGO - Yahoo Weather example
 
-![T5](./Images/T5 1.8.jpg)
+![T5](Images/T5 1.8.jpg)
 
 ### Install the following library support
 * [GxEPD](https://github.com/ZinggJM/GxEPD)
