@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\XinYuan\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
+                "C:\\Users\\XinYuan\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.0\\**",
+                "C:\\Users\\XinYuan\\Documents\\Arduino\\libraries\\ArduinoJson\\**",
+                "C:\\Users\\XinYuan\\Documents\\Arduino\\libraries\\ArduinoJson\\src\\ArduinoJson",
+                "C:\\Users\\XinYuan\\Documents\\Arduino\\libraries\\ArduinoJson\\src",
+                "C:\\Users\\XinYuan\\Documents\\Arduino\\libraries\\GxEPD\\**",
+                "C:\\Users\\XinYuan\\Documents\\Arduino\\libraries\\GxEPD\\GxGDE0213B1",
+                "C:\\Users\\XinYuan\\Documents\\Arduino\\libraries\\Adafruit-GFX-Library",
+                "C:\\Users\\XinYuan\\Documents\\Arduino\\libraries\\Adafruit-GFX-Library\\Fonts"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
